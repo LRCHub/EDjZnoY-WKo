@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Born to be",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:31:30.033272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born to Be Wild",
+      "artist": "Steppenwolf",
+      "has_synced": true,
+      "path": "select/01_Born_to_Be_Wild_Steppenwolf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born To Be Blue",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/02_Born_To_Be_Blue_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Born To Be With You",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/03_Born_To_Be_With_You_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born to Be a Lady",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_Born_to_Be_a_Lady_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born To Be a Lady",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/05_Born_To_Be_a_Lady_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born to Be Wild - Chillout Mix",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/06_Born_to_Be_Wild_-_Chillout_Mix_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born To Be Wild (Chillout Mix",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/07_Born_To_Be_Wild_(Chillout_Mix_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born To Be Wild (Radio Mix)",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/08_Born_To_Be_Wild_(Radio_Mix)_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born to Be Wild - Special Arabian Radio Mix",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/09_Born_to_Be_Wild_-_Special_Arabian_Radio_Mix_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born To Be Wild (Special Arabian Radio Mix)",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/10_Born_To_Be_Wild_(Special_Arabian_Radio_Mix)_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Born to Be",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/11_Born_to_Be_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Born to Be Wild",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/12_Born_to_Be_Wild_INXS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Born To Be Blue",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/13_Born_To_Be_Blue_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born to Be Bad",
+      "artist": "The Runaways",
+      "has_synced": true,
+      "path": "select/14_Born_to_Be_Bad_The_Runaways.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Born To Be Bad",
+      "artist": "The Runaways",
+      "has_synced": true,
+      "path": "select/15_Born_To_Be_Bad_The_Runaways.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Born To Be My Baby",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/16_Born_To_Be_My_Baby_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Born to be",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_Born_to_be_ナノ.txt"
+    }
+  ]
+}
